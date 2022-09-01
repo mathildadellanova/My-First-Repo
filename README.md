@@ -4,4 +4,4 @@ NPM     : 2106751240
 
 Kelas   : B
 
-Hobi    : Tidur
+Hobi    : Turu
