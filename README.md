@@ -1,5 +1,5 @@
-Nama    : Adrian Holovaty
+Nama    : Mathilda Dellanova
 
-NPM     : 1006123456
+NPM     : 2106751240
 
-Kelas   : Z
+Kelas   : B
